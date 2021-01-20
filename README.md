@@ -1,4 +1,4 @@
-# lora-wifi-gsm connection for Jeager
+# Jeager-one 
 
 PREREQUISITES
 
